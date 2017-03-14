@@ -23,3 +23,15 @@ https://www.hackerrank.com/challenges/compare-the-triplets
 https://www.hackerrank.com/challenges/cut-the-sticks
 - Non-Divisible Subset
 https://www.hackerrank.com/challenges/non-divisible-subset
+- Diagonal Difference
+https://www.hackerrank.com/challenges/diagonal-difference
+- Closest Numbers
+https://www.hackerrank.com/challenges/closest-numbers
+- Divisible Sum Pairs
+https://www.hackerrank.com/challenges/divisible-sum-pairs
+- Filling Jars
+https://www.hackerrank.com/challenges/filling-jars
+- Find Digits
+https://www.hackerrank.com/challenges/find-digits
+- Flatland Space Stations
+https://www.hackerrank.com/challenges/flatland-space-stations
