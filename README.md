@@ -43,3 +43,10 @@ https://www.hackerrank.com/challenges/game-of-thrones
 https://www.hackerrank.com/challenges/halloween-party
 - Identify Smith Numbers
 https://www.hackerrank.com/challenges/identify-smith-numbers
+- Is Fibo
+https://www.hackerrank.com/challenges/is-fibo
+
+## Medium
+- Bigger is Greater
+https://www.hackerrank.com/challenges/bigger-is-greater
+
