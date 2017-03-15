@@ -49,4 +49,6 @@ https://www.hackerrank.com/challenges/is-fibo
 ## Medium
 - Bigger is Greater
 https://www.hackerrank.com/challenges/bigger-is-greater
+- Min Max
+https://www.hackerrank.com/challenges/angry-children
 
