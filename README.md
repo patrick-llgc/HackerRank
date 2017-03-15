@@ -35,3 +35,11 @@ https://www.hackerrank.com/challenges/filling-jars
 https://www.hackerrank.com/challenges/find-digits
 - Flatland Space Stations
 https://www.hackerrank.com/challenges/flatland-space-stations
+- Flipping bits
+https://www.hackerrank.com/challenges/flipping-bits
+- Game of Thrones - I
+https://www.hackerrank.com/challenges/game-of-thrones
+- Halloween Party
+https://www.hackerrank.com/challenges/halloween-party
+- Identify Smith Numbers
+https://www.hackerrank.com/challenges/identify-smith-numbers
