@@ -45,10 +45,22 @@ https://www.hackerrank.com/challenges/halloween-party
 https://www.hackerrank.com/challenges/identify-smith-numbers
 - Is Fibo
 https://www.hackerrank.com/challenges/is-fibo
+- Encryption
+https://www.hackerrank.com/challenges/encryption
+- Ice Cream Parlor
+https://www.hackerrank.com/challenges/icecream-parlor
+- Two Strings
+https://www.hackerrank.com/challenges/two-strings
+- Sherlock and Array
+https://www.hackerrank.com/challenges/sherlock-and-array
+
 
 ## Medium
 - Bigger is Greater
 https://www.hackerrank.com/challenges/bigger-is-greater
 - Min Max
 https://www.hackerrank.com/challenges/angry-children
+- Larry's Array
+https://www.hackerrank.com/challenges/larrys-array
+
 
