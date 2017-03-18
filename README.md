@@ -62,5 +62,22 @@ https://www.hackerrank.com/challenges/bigger-is-greater
 https://www.hackerrank.com/challenges/angry-children
 - Larry's Array
 https://www.hackerrank.com/challenges/larrys-array
+- Sparse Arrays
+https://www.hackerrank.com/challenges/sparse-arrays
+
+# CTCI
+## Data Structure
+Arrays: Left Rotation
+https://www.hackerrank.com/challenges/ctci-array-left-rotation
+Stacks: Balanced Brackets
+https://www.hackerrank.com/challenges/ctci-balanced-brackets
+Strings: Making Anagrams 
+https://www.hackerrank.com/challenges/ctci-making-anagrams
+Hash Tables: Ransom Note
+https://www.hackerrank.com/challenges/ctci-ransom-note
+Queues: A Tale of Two Stacks
+https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
+Linked Lists: Detect a Cycle
+https://www.hackerrank.com/challenges/ctci-linked-list-cycle
 
 
