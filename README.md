@@ -79,5 +79,14 @@ Queues: A Tale of Two Stacks
 https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 Linked Lists: Detect a Cycle
 https://www.hackerrank.com/challenges/ctci-linked-list-cycle
-
+Trees: Is This a Binary Search Tree
+https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
+Heaps: Find the Running Median
+https://www.hackerrank.com/challenges/ctci-find-the-running-median
+Tries: Contacts
+https://www.hackerrank.com/challenges/ctci-contacts
+Recursion: Fibonacci Numbers
+https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
+Sorting: Bubble Sort
+https://www.hackerrank.com/challenges/ctci-bubble-sort
 
