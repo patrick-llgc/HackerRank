@@ -38,7 +38,7 @@ def visit_stack_top(grid, stack):
                     #print('IN', i+di, j+dj)
 
 def getBiggestRegion_DFS2(grid):
-    # with recursion
+    # DBF with recursion
     max_count = 0
     for i in range(len(grid)):
         for j in range(len(grid[0])):
@@ -51,6 +51,9 @@ def count(grid, i, j):
     if grid[i][j] != 1:
         return 0
     counter = 1
+    # mark nodes as visited. Otherwise revisits or goes to loop
+    # alternatievely we can keep a dictionary to keep record
+    #   without modifying the original map
     grid[i][j] = 0
     counter += count(grid, i-1, j-1)
     counter += count(grid, i-1, j)

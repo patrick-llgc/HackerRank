@@ -67,34 +67,37 @@ https://www.hackerrank.com/challenges/sparse-arrays
 
 # CTCI
 ## Data Structure
-Arrays: Left Rotation
+- Arrays: Left Rotation
 https://www.hackerrank.com/challenges/ctci-array-left-rotation
-Stacks: Balanced Brackets
+- Stacks: Balanced Brackets
 https://www.hackerrank.com/challenges/ctci-balanced-brackets
-Strings: Making Anagrams 
+- Strings: Making Anagrams 
 https://www.hackerrank.com/challenges/ctci-making-anagrams
-Hash Tables: Ransom Note
+- Hash Tables: Ransom Note
 https://www.hackerrank.com/challenges/ctci-ransom-note
-Queues: A Tale of Two Stacks
+- Queues: A Tale of Two Stacks
 https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
-Linked Lists: Detect a Cycle
+- Linked Lists: Detect a Cycle
 https://www.hackerrank.com/challenges/ctci-linked-list-cycle
-Trees: Is This a Binary Search Tree
+- Trees: Is This a Binary Search Tree
 https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
-Heaps: Find the Running Median
+- Heaps: Find the Running Median
 https://www.hackerrank.com/challenges/ctci-find-the-running-median
-Tries: Contacts
+- Tries: Contacts
 https://www.hackerrank.com/challenges/ctci-contacts
-Recursion: Fibonacci Numbers
+- Recursion: Fibonacci Numbers
 https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
-Sorting: Bubble Sort
+- Sorting: Bubble Sort
 https://www.hackerrank.com/challenges/ctci-bubble-sort
-Sorting: Comparator
+- Sorting: Comparator
 https://www.hackerrank.com/challenges/ctci-comparator-sorting
-Merge Sort: Counting Inversions
+- Merge Sort: Counting Inversions
 https://www.hackerrank.com/challenges/ctci-merge-sort
-Bit Manipulation: Lonely Integer
+- Bit Manipulation: Lonely Integer
 https://www.hackerrank.com/challenges/ctci-lonely-integer
-Recursion: Davis' Staircase
+- Recursion: Davis' Staircase
 https://www.hackerrank.com/challenges/ctci-recursive-staircase
-
+- Time Complexity: Primality
+https://www.hackerrank.com/challenges/ctci-big-o
+- DP: Coin Change
+https://www.hackerrank.com/challenges/ctci-coin-change
