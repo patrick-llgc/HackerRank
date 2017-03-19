@@ -89,4 +89,12 @@ Recursion: Fibonacci Numbers
 https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 Sorting: Bubble Sort
 https://www.hackerrank.com/challenges/ctci-bubble-sort
+Sorting: Comparator
+https://www.hackerrank.com/challenges/ctci-comparator-sorting
+Merge Sort: Counting Inversions
+https://www.hackerrank.com/challenges/ctci-merge-sort
+Bit Manipulation: Lonely Integer
+https://www.hackerrank.com/challenges/ctci-lonely-integer
+Recursion: Davis' Staircase
+https://www.hackerrank.com/challenges/ctci-recursive-staircase
 
