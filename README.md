@@ -64,6 +64,8 @@ https://www.hackerrank.com/challenges/angry-children
 https://www.hackerrank.com/challenges/larrys-array
 - Sparse Arrays
 https://www.hackerrank.com/challenges/sparse-arrays
+- Algorithmic Crush
+https://www.hackerrank.com/challenges/crush
 
 # CTCI
 ## Data Structure
@@ -101,3 +103,9 @@ https://www.hackerrank.com/challenges/ctci-recursive-staircase
 https://www.hackerrank.com/challenges/ctci-big-o
 - DP: Coin Change
 https://www.hackerrank.com/challenges/ctci-coin-change
+
+
+- Poles
+https://www.hackerrank.com/contests/w30/challenges/poles
+- Melodious Password
+https://www.hackerrank.com/contests/w30/challenges/melodious-password
